@@ -136,7 +136,7 @@ Upload an image file for prediction
 
 ## 🖼️ Image Preprocessing
 
-* Resized to model input size (e.g., 224×224)  
+* Resized to model input size (e.g., 256×256)  
 * Normalized (pixel values scaled to 0–1)  
 
 ---
